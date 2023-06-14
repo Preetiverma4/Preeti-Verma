@@ -1,4 +1,4 @@
-"Love to take risks, In Fashion with Passion | Changing the world, one Git commit at a time"
+"Love to explore real World alogn with AI world | Changing the world, one Git commit at a time"
 
 👋 Hi, I’m @preetiverm4. I'm a Technology Specialist with working knowledge as a Python Fullstack Developer with rich experience in handling clients communication, building infrastructure using Kubernetes, along with that involved in various Architectural design decisions and building real-time complex web projects, Game Services Development, API development using Django, Databases like Mongo DB, Mysql along with Redis, postgresSQL, LAMBDA functions, Server Management(AWS, Digital Ocean along with techniques like Auto Scaling, Load balancers), and AI/ML
 
